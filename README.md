@@ -1,5 +1,5 @@
 # Superironman
--插入超链接markdown语法 [文本]( url )
+插入超链接markdown语法 [文本]( url )
 
 受B站up主稚辉君启发，记录个人的技术路线，备份互联网高质量资料与资讯
 
