@@ -3,7 +3,7 @@
 
 受B站up主稚辉君启发，记录个人的技术路线，备份互联网高质量资料与资讯
 
--[稚晖的个人站](http://www.pengzhihui.xyz/) [稚辉君的知乎](https://www.zhihu.com/people/zhi-hui-64-54)  [稚辉君的B站主页](https://space.bilibili.com/20259914/dynamic)
+[稚晖的个人站](http://www.pengzhihui.xyz/) | [稚辉君的知乎](https://www.zhihu.com/people/zhi-hui-64-54) | [稚辉君的B站主页](https://space.bilibili.com/20259914/dynamic)
 
 在main主分支里面记录备份资料与技术文档
 在支线分支里记录其他文档资料，具体详述如下
