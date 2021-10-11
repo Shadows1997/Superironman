@@ -2,6 +2,7 @@
 -插入超链接markdown语法 [文本]( url )
 
 受B站up主稚辉君启发，记录个人的技术路线，备份互联网高质量资料与资讯
+
 [稚辉君-知乎](https://www.zhihu.com/people/zhi-hui-64-54) | [稚辉君-B站](https://space.bilibili.com/20259914) | [稚辉君-个人站](http://www.pengzhihui.xyz/)
 
 ## [Main 主分支](https://github.com/Shadows1997/Superironman) 记录备份资料与技术文档
@@ -17,4 +18,4 @@
 
 ## [Negative-review 差评分支](https://github.com/Shadows1997/Superironman/tree/Negative-review) 记录一些求职就业、考研学习导师评价等差评信息，避坑
 
-## [StudyFiles 学习资料](https://github.com/Shadows1997/Superironman/tree/StudyFiles)
+## [StudyFiles 学习资料](https://github.com/Shadows1997/Superironman/tree/StudyFiles) 记录大学学习资料
