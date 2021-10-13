@@ -17,7 +17,7 @@
 [初版公司作息时间表Online](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?tab=BB08J2)
 
 表格原作者也对文档进行了定期备份
-[WorkerLivesMatter](https://github.com/ZhangNanBei/WokerLifeMatters) 我会定期做增量备份，并扩增传统行业、国企、研究所等情况。
+[WorkerLivesMatter](https://github.com/ZhangNanBei/WokerLifeMatters) 与 [WorkerLivesMatter/WorkerLivesMatter](https://github.com/WorkerLivesMatter/WorkerLivesMatter)我会定期做增量备份，并扩增传统行业、国企、研究所等情况。
 
 ## [Negative-review 差评分卷](https://github.com/Shadows1997/Superironman/tree/main/Negative%20Review) 记录一些求职就业、考研学习导师评价等差评信息，避坑
 
