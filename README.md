@@ -14,7 +14,7 @@
 
 记录与求职就业相关的资料，内含（主要为国内）公司的作息时间表文件、薪资统计文件。因为原表格是腾讯文档的在线编辑的，为防止和谐，可以到Goolge Docx在线表格中编辑：[公司作息时间表Online](https://docs.google.com/spreadsheets/d/1xMkpPl7MjmGl1tbUqH8XzJA0qD5B3hvLz7XMNkLT_k4/edit?usp=sharing)也可以关注本仓库支线分支文件夹下的文档备份
 
-感谢初版表格的创建者与各位网友们的信息提供，初版使用腾讯文档进行编辑：[初版公司作息时间表Online](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?tab=BB08J2)
+感谢初版表格的创建者与各位网友们的信息提供，初版使用腾讯文档进行编辑：[初版公司作息时间表Online](https://docs.qq.com/sheet/DRlNYVkZIUWRpbVFP)
 
 对于表格，原作者也对文档进行了定期备份，地址见：[WorkerLivesMatter](https://github.com/ZhangNanBei/WokerLifeMatters) 与 [WorkerLivesMatter/WorkerLivesMatter](https://github.com/WorkerLivesMatter/WorkerLivesMatter)
 
