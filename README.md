@@ -13,3 +13,8 @@
 ## [Jobs 分卷](https://github.com/Shadows1997/Superironman/tree/main/Jobs)
 记录求职就业所需资料，个人从传统制造业转行IT互联网，求职方向为：软件开发、数据分析、产品经理，故收集此类资料。
 
+### Tips：一些常用的技巧
+1、[在VS Code里配置Git](https://zhuanlan.zhihu.com/p/31417255)
+2、[廖雪峰的Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1017063413904832)
+3、[Paypal离职自宅创业自述（包含详细公司注册流程）](https://blog.guyskk.com/about)
+4、[输入5秒语音合成人物讲话](https://github.com/babysor/MockingBird)
