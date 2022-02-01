@@ -18,3 +18,6 @@
 2、[廖雪峰的Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400/1017063413904832)
 3、[Paypal离职自宅创业自述（包含详细公司注册流程）](https://blog.guyskk.com/about)
 4、[输入5秒语音合成人物讲话](https://github.com/babysor/MockingBird) 使用方法见[link](https://lupdlppiu5.feishu.cn/docs/doccn45XQmjZNBJIhiwnJq8vqbe)
+
+实用的youtube下载器
+[Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)  [会linux的使用这个youtube-dl](https://github.com/ytdl-org/youtube-dl)
